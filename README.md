@@ -9,4 +9,5 @@
 7. git commit --amend  
 8. git checkout -b 
 9. git branch
-10. git checkout master 
+10. git checkout master
+11. git push
